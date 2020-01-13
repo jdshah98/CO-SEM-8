@@ -1,0 +1,4 @@
+Hii I am Jainam Shah
+This is input file
+input is given to java program
+java program will process input.
